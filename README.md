@@ -57,5 +57,3 @@ results/
 - Setup instructions
 - Experiment reproduction
 - Results summary
-
-Want me to start implementing any specific component?
